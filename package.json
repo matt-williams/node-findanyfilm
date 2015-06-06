@@ -1,6 +1,6 @@
 {
   "name": "findanyfilm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Node.js module to access FindAnyFilm.com's API",
   "main": "findanyfilm.js",
   "scripts": {

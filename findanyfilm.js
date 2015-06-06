@@ -38,4 +38,9 @@ module.exports = function(config)
   this.getFilmsByCinema = query('/films_by_cinema.php');
   this.getFilmsByLocation = query('/films_by_location.php');
   this.getAvailability = query('/film_availability.php');
+  this.getFilmsByDirector = query('/director.php');
+  this.getFilmsByActor = query('/actor.php');
+  this.getCinemaMetadata = query('/cinema_metadata.php');
+  this.getFilmsComingSoon = query('/films_coming_soon.php');
+  this.getFilmsOutNow = query('/films_out_now.php');
 }
