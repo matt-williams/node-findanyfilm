@@ -11,11 +11,10 @@
     "url": "git://github.com/matt-williams/node-findanyfilm.git"
   },
   "author": "Matt Williams (https://github.com/matt-williams/)",
-  "licenses": [
-  {
+  "licenses": [{
     "type": "MIT",
     "url": "https://github.com/matt-williams/node-findanyfilm/blob/master/LICENSE.md"
-  }
+  }],
   "bugs": {
     "url": "https://github.com/matt-williams/node-findanyfilm/issues"
   }
