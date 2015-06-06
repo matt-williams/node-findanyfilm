@@ -1,0 +1,18 @@
+{
+  "name": "findanyfilm",
+  "version": "0.0.0",
+  "description": "Node.js module to access FindAnyFilm.com's API",
+  "main": "findanyfilm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matt-williams/node-findanyfilm.git"
+  },
+  "author": "Matt Williams (https://github.com/matt-williams/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/matt-williams/node-findanyfilm/issues"
+  }
+}
