@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "querystring": "0.2.0"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/matt-williams/node-findanyfilm.git"
