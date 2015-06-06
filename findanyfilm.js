@@ -33,6 +33,7 @@ module.exports = function(config)
   }
 
   this.getFilms = query('/search_g.php');
+  this.getFilmMetadata = query('/film_metadata.php');
   this.getCinemas = query('/cinema_by_film.php');
   this.getFilmsByCinema = query('/films_by_cinema.php');
   this.getFilmsByLocation = query('/films_by_location.php');
